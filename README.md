@@ -4,7 +4,7 @@ R function to abbreviate scientific names on a list.
 
 [Ecological Synthesis Lab](https://marcomellolab.wordpress.com) (SintECO).
 
-Authors: Guillermo L. Florez-Montero & Marco A. R. Mello.
+Authors: [Guillermo L. Florez-Montero](https://github.com/gflorezm) & [Marco A. R. Mello](https://github.com/marmello77).
 
 E-mail: marmello@usp.br. 
 
