@@ -45,5 +45,5 @@ If you have any questions, corrections, or suggestions, please feel free to open
 
 ## Acknowledgments
 
-We thank our sponsors, especially the Alexander von Humboldt-Stiftung, CNPq, CAPES, and FAPESP, who gave us grants, fellowships, and scholarships. Last, but not least, we thank the [Stack Overflow Community](https://stackoverflow.com), where we solve most of our coding dilemmas. This particular dilemma was soled in this [topic](https://stackoverflow.com/questions/64371998/function-to-abbreviate-scientific-names).
+We thank our sponsors, especially the Alexander von Humboldt-Stiftung, CNPq, CAPES, and FAPESP, who gave us grants, fellowships, and scholarships. Last, but not least, we thank the [Stack Overflow Community](https://stackoverflow.com), where we solve most of our coding dilemmas. This particular dilemma was solved in this [topic](https://stackoverflow.com/questions/64371998/function-to-abbreviate-scientific-names).
 
