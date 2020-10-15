@@ -24,7 +24,7 @@ This is a very simple, custom-made R function to abbreviate scientific names. We
 
 1. AbbreviatedNames.R -> customized R function to abbreviate scientific names.
 
-2. names.csv -> example data set.
+2. names.csv -> example data set. This is the list of species studied by [Genrich et al. (2017, Oikos)](https://doi.org/10.1111/oik.03825).
 
 3. names.R -> R script to load the example data set and apply the function to it.
 
